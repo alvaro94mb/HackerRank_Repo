@@ -11,7 +11,7 @@ public class Solution {
 
     // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
-
+        return -1;
     }
 
     static int getPosIndice(int[] arr, int indice){
